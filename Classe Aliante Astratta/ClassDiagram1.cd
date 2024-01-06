@@ -28,5 +28,12 @@
       <FileName>Fusoliera.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="Classe_Aliante_Astratta.Cerchione">
+    <Position X="20.25" Y="6.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAQAAAAAEgAIAAAYAAABAAAAAAAAAAgAAAAg=</HashCode>
+      <FileName>Cerchione.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
