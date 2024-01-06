@@ -7,5 +7,12 @@
       <FileName>Composite.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="Classe_Aliante_Astratta.Aliante">
+    <Position X="4.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQACAAAEgAICAAAAAABAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Aliante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
