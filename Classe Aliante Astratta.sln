@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe Aliante Astratta", "Classe Aliante Astratta\Classe Aliante Astratta.csproj", "{AFEAA416-E873-4A43-AECF-3ED77CA6D4A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFEAA416-E873-4A43-AECF-3ED77CA6D4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEAA416-E873-4A43-AECF-3ED77CA6D4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEAA416-E873-4A43-AECF-3ED77CA6D4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEAA416-E873-4A43-AECF-3ED77CA6D4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F335528-45DE-453F-8F65-1748117F69B3}
+	EndGlobalSection
+EndGlobal
