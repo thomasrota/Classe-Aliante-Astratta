@@ -8,31 +8,38 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Classe_Aliante_Astratta.Aliante">
-    <Position X="16.25" Y="6.75" Width="3" />
+    <Position X="16.25" Y="7.25" Width="3" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAQACAAAEgAICAAAAAABAAAAAAAAAAgAAAAA=</HashCode>
       <FileName>Aliante.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Classe_Aliante_Astratta.Ala">
-    <Position X="11.5" Y="6.75" Width="3" />
+    <Position X="11.5" Y="7.25" Width="3" />
     <TypeIdentifier>
       <HashCode>AAAAEAQAEQAAAABEgAIAAAAAAABAAAAAAAAAAgAAAAA=</HashCode>
       <FileName>Ala.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Classe_Aliante_Astratta.Fusoliera">
-    <Position X="7.5" Y="6.25" Width="3.25" />
+    <Position X="7.5" Y="6.75" Width="3.25" />
     <TypeIdentifier>
       <HashCode>AEAAAAQAEQAAAAAEgAIAAAQAAABAAAAAAAAAAgAAAAA=</HashCode>
       <FileName>Fusoliera.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Classe_Aliante_Astratta.Cerchione">
-    <Position X="20.25" Y="6.25" Width="3" />
+    <Position X="20.25" Y="6.75" Width="3" />
     <TypeIdentifier>
       <HashCode>AEAAAAAAAQAAAAAEgAIAAAYAAABAAAAAAAAAAgAAAAg=</HashCode>
       <FileName>Cerchione.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classe_Aliante_Astratta.Coda">
+    <Position X="3.5" Y="6.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAEQAAAAAEgAIAAAAAAABAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Coda.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
