@@ -42,5 +42,12 @@
       <FileName>Coda.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="Classe_Aliante_Astratta.Gomma">
+    <Position X="24.25" Y="6" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAcAAAAAEgAIAAACAAABEAAAAAAAAAgAQAAA=</HashCode>
+      <FileName>Gomma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
