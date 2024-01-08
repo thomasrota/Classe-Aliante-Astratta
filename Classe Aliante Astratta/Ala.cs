@@ -64,6 +64,11 @@ namespace Classe_Aliante_Astratta
 			return Lunghezza == other.Lunghezza && Apertura == other.Apertura;
 		}
 
+		public override int GetHashCode()
+		{
+			return base.GetHashCode();
+		}
+
 		public override void Aggiunta(Composite componente)
 		{
 

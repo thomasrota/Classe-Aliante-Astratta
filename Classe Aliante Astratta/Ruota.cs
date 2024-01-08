@@ -52,6 +52,11 @@ namespace Classe_Aliante_Astratta
 			return Gomma == other.Gomma && Cerchione == other.Cerchione;
 		}
 
+		public override int GetHashCode()
+		{
+			return base.GetHashCode();
+		}
+
 		public override void Aggiunta(Composite componente)
 		{
 

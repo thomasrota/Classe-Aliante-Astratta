@@ -58,6 +58,11 @@ namespace Classe_Aliante_Astratta
 			return Pollici == other.Pollici && Materiale == other.Materiale;
 		}
 
+		public override int GetHashCode()
+		{
+			return base.GetHashCode();
+		}
+
 		public override void Aggiunta(Composite componente)
 		{
 

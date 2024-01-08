@@ -80,6 +80,11 @@ namespace Classe_Aliante_Astratta
 			return Altezza == other.Altezza && Larghezza == other.Larghezza && Raggio == other.Raggio;
 		}
 
+		public override int GetHashCode()
+		{
+			return base.GetHashCode();
+		}
+
 		public override void Aggiunta(Composite componente)
 		{
 

@@ -55,6 +55,11 @@ namespace Classe_Aliante_Astratta
 			return true;
 		}
 
+		public override int GetHashCode()
+		{
+			return base.GetHashCode();
+		}
+
 		public override void Aggiunta(Composite componente)
 		{
 			Composites.Add(componente);
