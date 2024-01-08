@@ -81,7 +81,7 @@ namespace Classe_Aliante_Astratta
 
 			foreach (var componente in Composites)
 			{
-				str += componente.ToString();
+				str += componente.ToString() + '\n';
 			}
 
 			return str;
